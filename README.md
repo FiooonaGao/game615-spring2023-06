@@ -3,6 +3,10 @@
 TEAM:
 Fiona
  
+ 
+Playable Link: https://fiooonagao.github.io/game615-spring2023-06/exercise06/play/
+
+
 
 MODELS:
 Raccoon by Poly by Google [CC-BY] via Poly Pizza
