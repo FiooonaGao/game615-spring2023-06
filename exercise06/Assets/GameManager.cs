@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (playerScore >= 11)
+        if (playerScore >= 12)
         {
             WinText.enabled = true;
             GameOn = false; ;
